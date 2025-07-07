@@ -1,0 +1,10 @@
+Monday
+Tuesday
+8 9 BLG113E
+9 10 BLG223E
+Wednesday
+13 14 BLG102E
+Thursday
+Friday
+Saturday
+Sunday

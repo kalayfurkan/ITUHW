@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "process.h": "c",
+        "min_heap.h": "c"
+    }
+}

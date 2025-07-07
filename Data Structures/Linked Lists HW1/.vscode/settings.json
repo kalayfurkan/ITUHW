@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "string": "cpp",
+        "schedule.h": "c",
+        "exam.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "schedule_tests.h": "c",
+        "munit.h": "c"
+    }
+}
