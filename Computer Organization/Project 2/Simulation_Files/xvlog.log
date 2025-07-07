@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Furkan/Desktop/comporg2/Helper.v" into library work
+INFO: [VRFC 10-311] analyzing module FileOperation
+INFO: [VRFC 10-311] analyzing module CrystalOscillator
+INFO: [VRFC 10-311] analyzing module ResetGenerator

@@ -1,0 +1,17 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Furkan/Desktop/comporg2/AddressRegisterFile.v,1747499711,verilog,,,,AddressRegisterFile,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/ArithmeticLogicUnit.v,1748262507,verilog,,,,ArithmeticLogicUnit,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/ArithmeticLogicUnitSystem.v,1747494222,verilog,,,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/CPUSystem.v,1748262189,verilog,,,,CPUSystem,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/CPUSystemSimulation.v,1748211678,verilog,,,,CPUSystemSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/CPUSystemSimulation_Factorial.v,1748211672,verilog,,,,CPUSystemSimulation_Factorial,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/DataRegister.v,1746779487,verilog,,,,DataRegister,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/Helper.v,1746779375,verilog,,,,CrystalOscillator;FileOperation;ResetGenerator,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/InstructionRegister.v,1746779497,verilog,,,,InstructionRegister,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/Memory.v,1746779375,verilog,,,,Memory,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/Register16bit.v,1746779511,verilog,,,,Register16bit,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/Register32bit.v,1746779516,verilog,,,,Register32bit,,,,,,,,
+C:/Users/Furkan/Desktop/comporg2/RegisterFile.v,1747853617,verilog,,,,RegisterFile,,,,,,,,

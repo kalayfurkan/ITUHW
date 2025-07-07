@@ -1,0 +1,24 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -top CPUSystemSimulation_Factorial -snapshot cpusyssim -debug typical 
+Multi-threading is on. Using 10 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.CrystalOscillator
+Compiling module work.ResetGenerator
+Compiling module work.Register16bit
+Compiling module work.AddressRegisterFile
+Compiling module work.Register32bit
+Compiling module work.RegisterFile
+Compiling module work.ArithmeticLogicUnit
+Compiling module work.Memory
+Compiling module work.DataRegister
+Compiling module work.InstructionRegister
+Compiling module work.ArithmeticLogicUnitSystem
+Compiling module work.CPUSystem
+Compiling module work.FileOperation
+Compiling module work.CPUSystemSimulation_Factorial
+Built simulation snapshot cpusyssim

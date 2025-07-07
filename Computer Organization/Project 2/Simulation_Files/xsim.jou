@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon May 26 16:26:37 2025
+# Process ID: 19712
+# Current directory: C:/Users/Furkan/Desktop/comporg2/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/cpusyssim/xsim_script.tcl}
+# Log file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files/xsim.log
+# Journal file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/cpusyssim/xsim_script.tcl
+run -all

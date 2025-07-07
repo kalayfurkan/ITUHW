@@ -1,0 +1,1 @@
+-top "DataRegisterSimulation" -snapshot "dataregsim" -debug "typical" 

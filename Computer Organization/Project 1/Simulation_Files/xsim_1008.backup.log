@@ -1,0 +1,39 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Apr 18 15:17:01 2025
+# Process ID: 1008
+# Current directory: C:/Users/Furkan/Desktop/qweqw/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/alusim/xsim_script.tcl}
+# Log file: C:/Users/Furkan/Desktop/qweqw/Simulation_Files/xsim.log
+# Journal file: C:/Users/Furkan/Desktop/qweqw/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/alusim/xsim_script.tcl
+# xsim {alusim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+------------------------------------
+ArithmeticLogicUnit Simulation Started
+[PASS] Test No: 1, Component: ALUOut, Actual Value: 0x55555555, Expected Value: 0x55555555
+[PASS] Test No: 1, Component: Z, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 1, Component: C, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 1, Component: N, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 1, Component: O, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 2, Component: ALUOut, Actual Value: 0x55555555, Expected Value: 0x55555555
+[PASS] Test No: 2, Component: Z, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 2, Component: C, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 2, Component: N, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 2, Component: O, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 3, Component: ALUOut, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 3, Component: Z, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 3, Component: C, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 3, Component: N, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 3, Component: O, Actual Value: 0x00000000, Expected Value: 0x00000000
+ArithmeticLogicUnit Simulation Finished
+0 Test Failed
+15 Test Passed
+------------------------------------
+exit
+INFO: [Common 17-206] Exiting xsim at Fri Apr 18 15:17:05 2025...

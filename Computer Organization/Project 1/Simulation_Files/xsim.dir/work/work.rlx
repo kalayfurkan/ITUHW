@@ -1,0 +1,22 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Furkan/Desktop/qweqw/AddressRegisterFile.v,1744658842,verilog,,,,AddressRegisterFile,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/AddressRegisterFileSimulation.v,1744654490,verilog,,,,AddressRegisterFileSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnit.v,1744720876,verilog,,,,ArithmeticLogicUnit,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSimulation.v,1744654490,verilog,,,,ArithmeticLogicUnitSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystem.v,1744742917,verilog,,,,ArithmeticLogicUnitSystem,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystemSimulation.v,1744654490,verilog,,,,ArithmeticLogicUnitSystemSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/DataRegister.v,1744659212,verilog,,,,DataRegister,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/DataRegisterSimulation.v,1744654490,verilog,,,,DataRegisterSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Helper.v,1744654490,verilog,,,,CrystalOscillator;FileOperation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/InstructionRegister.v,1744659073,verilog,,,,InstructionRegister,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/InstructionRegisterSimulation.v,1744654490,verilog,,,,InstructionRegisterSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Memory.v,1744654490,verilog,,,,Memory,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Register16bit.v,1744655131,verilog,,,,Register16bit,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Register16bitSimulation.v,1744654490,verilog,,,,Register16bitSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Register32bit.v,1744655131,verilog,,,,Register32bit,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/Register32bitSimulation.v,1744654490,verilog,,,,Register32bitSimulation,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/RegisterFile.v,1744655130,verilog,,,,RegisterFile,,,,,,,,
+C:/Users/Furkan/Desktop/qweqw/RegisterFileSimulation.v,1744654490,verilog,,,,RegisterFileSimulation,,,,,,,,

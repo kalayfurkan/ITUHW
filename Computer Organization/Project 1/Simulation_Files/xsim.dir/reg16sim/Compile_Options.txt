@@ -1,0 +1,1 @@
+-top "Register16bitSimulation" -snapshot "reg16sim" -debug "typical" 

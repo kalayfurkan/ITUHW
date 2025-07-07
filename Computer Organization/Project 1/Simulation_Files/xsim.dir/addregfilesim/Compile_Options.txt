@@ -1,0 +1,1 @@
+-top "AddressRegisterFileSimulation" -snapshot "addregfilesim" -debug "typical" 

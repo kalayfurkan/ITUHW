@@ -1,0 +1,1 @@
+-top "InstructionRegisterSimulation" -snapshot "insregsim" -debug "typical" 

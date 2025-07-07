@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon May 26 16:10:22 2025
+# Process ID: 13900
+# Current directory: C:/Users/Furkan/Desktop/comporg2/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/cpusyssim/xsim_script.tcl}
+# Log file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files/xsim.log
+# Journal file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/cpusyssim/xsim_script.tcl
+# xsim {cpusyssim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+------------------------------------
+CPUSystem Simulation Started
+[PASS] Test No: 70, Component: IROut, Actual Value: 0x00000052, Expected Value: 0x00000052
+[PASS] Test No: 70, Component: PC, Actual Value: 0x00000052, Expected Value: 0x00000052
+[PASS] Test No: 70, Component: SP, Actual Value: 0x000000ff, Expected Value: 0x000000ff
+[PASS] Test No: 70, Component: AR, Actual Value: 0x00000057, Expected Value: 0x00000057
+[PASS] Test No: 70, Component: MEM[ADDRESS], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[ADDRESS], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[ADDRESS], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[ADDRESS], Actual Value: 0x00000018, Expected Value: 0x00000018
+[PASS] Test No: 70, Component: R1, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 70, Component: R2, Actual Value: 0x00000018, Expected Value: 0x00000018
+[PASS] Test No: 70, Component: R3, Actual Value: 0x00000006, Expected Value: 0x00000006
+[PASS] Test No: 70, Component: R4, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000040, Expected Value: 0x00000040
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000044, Expected Value: 0x00000044
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000040, Expected Value: 0x00000040
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000044, Expected Value: 0x00000044
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000040, Expected Value: 0x00000040
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000044, Expected Value: 0x00000044
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 70, Component: MEM[SP], Actual Value: 0x0000002e, Expected Value: 0x0000002e
+CPUSystem Simulation Finished
+0 Test Failed
+26 Test Passed
+------------------------------------
+exit
+INFO: [Common 17-206] Exiting xsim at Mon May 26 16:10:25 2025...

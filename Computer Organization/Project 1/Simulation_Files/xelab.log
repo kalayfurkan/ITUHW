@@ -1,0 +1,27 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -top ArithmeticLogicUnitSystemSimulation -snapshot alusyssim -debug typical 
+Multi-threading is on. Using 10 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 4 for port RF_OutASel [C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystemSimulation.v:26]
+WARNING: [VRFC 10-278] actual bit length 3 differs from formal bit length 4 for port RF_FunSel [C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystemSimulation.v:27]
+WARNING: [VRFC 10-278] actual bit length 32 differs from formal bit length 16 for port I [C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystem.v:73]
+WARNING: [VRFC 10-278] actual bit length 4 differs from formal bit length 3 for port OutASel [C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystem.v:74]
+WARNING: [VRFC 10-278] actual bit length 8 differs from formal bit length 16 for port IROut [C:/Users/Furkan/Desktop/qweqw/ArithmeticLogicUnitSystem.v:78]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module work.CrystalOscillator
+Compiling module work.Register16bit
+Compiling module work.AddressRegisterFile
+Compiling module work.Register32bit
+Compiling module work.RegisterFile
+Compiling module work.ArithmeticLogicUnit
+Compiling module work.Memory
+Compiling module work.DataRegister
+Compiling module work.InstructionRegister
+Compiling module work.ArithmeticLogicUnitSystem
+Compiling module work.FileOperation
+Compiling module work.ArithmeticLogicUnitSystemSimulat...
+Built simulation snapshot alusyssim

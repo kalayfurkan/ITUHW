@@ -1,0 +1,1 @@
+xsim {dataregsim} -autoloadwcfg -runall

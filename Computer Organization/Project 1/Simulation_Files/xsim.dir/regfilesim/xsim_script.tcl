@@ -1,0 +1,1 @@
+xsim {regfilesim} -autoloadwcfg -runall

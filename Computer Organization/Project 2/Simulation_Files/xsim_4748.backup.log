@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# xsim v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon May 26 15:28:45 2025
+# Process ID: 4748
+# Current directory: C:/Users/Furkan/Desktop/comporg2/Simulation_Files
+# Command line: xsim.exe -mode tcl -source {xsim.dir/cpusyssim/xsim_script.tcl}
+# Log file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files/xsim.log
+# Journal file: C:/Users/Furkan/Desktop/comporg2/Simulation_Files\xsim.jou
+#-----------------------------------------------------------
+source xsim.dir/cpusyssim/xsim_script.tcl
+# xsim {cpusyssim} -autoloadwcfg -runall
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+run -all
+------------------------------------
+CPUSystem Simulation Started
+[PASS] Test No: 1, Component: R2, Actual Value: 0x77777777, Expected Value: 0x77777777
+[PASS] Test No: 1, Component: R2, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 2, Component: R1, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 2, Component: Z, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 3, Component: R1, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 3, Component: R2, Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 3, Component: Z, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 4, Component: DROut, Actual Value: 0x00000600, Expected Value: 0x00000600
+[PASS] Test No: 4, Component: R3, Actual Value: 0x00000600, Expected Value: 0x00000600
+[PASS] Test No: 4, Component: AR, Actual Value: 0x00000001, Expected Value: 0x00000001
+[PASS] Test No: 5, Component: DROut, Actual Value: 0x06000a08, Expected Value: 0x06000a08
+[PASS] Test No: 5, Component: R3, Actual Value: 0x06000a08, Expected Value: 0x06000a08
+[PASS] Test No: 5, Component: AR, Actual Value: 0x00000003, Expected Value: 0x00000003
+[PASS] Test No: 6, Component: R3, Actual Value: 0x06000a08, Expected Value: 0x06000a08
+[PASS] Test No: 6, Component: AR, Actual Value: 0x0000000b, Expected Value: 0x0000000b
+[PASS] Test No: 6, Component: MEM[AR], Actual Value: 0x00000006, Expected Value: 0x00000006
+[PASS] Test No: 6, Component: MEM[AR], Actual Value: 0x00000000, Expected Value: 0x00000000
+[PASS] Test No: 6, Component: MEM[AR], Actual Value: 0x0000000a, Expected Value: 0x0000000a
+[PASS] Test No: 6, Component: MEM[AR], Actual Value: 0x00000008, Expected Value: 0x00000008
+[PASS] Test No: 7, Component: PC, Actual Value: 0x00000032, Expected Value: 0x00000032
+[PASS] Test No: 7, Component: SP, Actual Value: 0x000000fd, Expected Value: 0x000000fd
+[PASS] Test No: 7, Component: MEM[SP], Actual Value: 0x000000aa, Expected Value: 0x000000aa
+[PASS] Test No: 7, Component: MEM[SP], Actual Value: 0x000000bb, Expected Value: 0x000000bb
+[PASS] Test No: 8, Component: R1, Actual Value: 0x000000fe, Expected Value: 0x000000fe
+[PASS] Test No: 8, Component: AR, Actual Value: 0x00000012, Expected Value: 0x00000012
+CPUSystem Simulation Finished
+0 Test Failed
+25 Test Passed
+------------------------------------
+exit
+INFO: [Common 17-206] Exiting xsim at Mon May 26 15:28:48 2025...
